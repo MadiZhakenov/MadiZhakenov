@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/MadiZhakenov/MadiZhakenov/main/banner.png" alt="Madi Zhakenov - Backend & AI Developer"/>
-</p>
-
 <div id="header" align="center">
 <h1>
 Привет! Я Мәди Жакенов 👋
