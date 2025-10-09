@@ -1,7 +1,6 @@
 <div id="header" align="center">
 <h1>
 Привет! Я Мәди Жакенов 👋
-<br/>
 </h1>
 <h3>Full-Stack & AI Developer из Астаны 🇰🇿</h3>
 <a href="https://docs.google.com/document/d/1chu716GI-NsZyMfckx6H8OXzyr3X_K1PWMb5mZ6Wp9I/edit?tab=t.0">
