@@ -46,12 +46,17 @@
 
 ---
 
+<div align="center">
+
 ### 📫 Как связаться
 
 Всегда открыт к обсуждению новых проектов и интересных идей.
-<p align="left">
-<a href="https://t.me/MadishkaShishka"><img src="https://img.shields.io/badge/Telegram-2CA5E0?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
+<p>
+  <a href="https://t.me/MadishkaShishka"><img src="https://img.shields.io/badge/Telegram-2CA5E0?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
+
+</div>
 
 ---
 <p align="center">
