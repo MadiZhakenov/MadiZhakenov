@@ -38,6 +38,7 @@
 | Проект | Описание | Стек | Ссылки |
 |---|---|---|---|
 | **NeoOSI SaaS Platform** | Бэкенд для SaaS-платформы в сфере ЖКХ. Ключевая фича - AI-ассистент с RAG-пайплайном для решения проблемы нестабильности поиска. | `NestJS`, `PostgreSQL`, `Gemini`, `LangChain`, `JWT`, `Docker` | [GitHub](https://github.com/MadiZhakenov/neo-osi-backend) |
+| **Source Snapshot** | GUI-утилита для упаковки исходного кода проекта в единый PDF-отчет. Идеально для код-ревью, архивации или демонстрации. | `Python`, `PyQt6`, `ReportLab` | [GitHub](https://github.com/MadiZhakenov/source-snapshot) |
 | **AI Art Analyzer Bot** | Telegram-бот, анализирующий эмоциональное содержание изображений с помощью Google Gemini API. | `Python`, `Google Gemini API` | [GitHub](https://github.com/MadiZhakenov/ai-art-analyzer) <br/> [YouTube](https://youtube.com/shorts/U31Z49a0u_w?si=RmWG-MHy4j2NxfF) |
 | **AI Curriculum Generator** | Десктопное приложение, которое автоматизирует создание годовых учебных планов для дошкольных учреждений, сокращая время работы с недель до минут. | `Python`, `Gemini`, `RAG`, `Tkinter` | [GitHub](https://github.com/MadiZhakenov/ai-curriculum-generator) |
 | **MMA Platform Backend** | Бэкенд для MMA-платформы (ТЗ от Greyball). Реализован CRUD для бойцов/событий и фоновое обновление рейтингов через GraphQL и Redis/BullMQ. | `NestJS`, `GraphQL`, `PostgreSQL`, `TypeORM`, `Redis` | [GitHub](https://github.com/MadiZhakenov/mma-platform-backend) |
