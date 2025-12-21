@@ -45,7 +45,7 @@
 | **MMA Platform Backend** | Бэкенд для MMA-платформы (для платформы [Greyball](https://www.greyball.com/)). Реализован CRUD для бойцов/событий и фоновое обновление рейтингов через GraphQL и Redis/BullMQ. | `NestJS`, `GraphQL`, `PostgreSQL`, `TypeORM`, `Redis` | [GitHub](https://github.com/MadiZhakenov/mma-platform-backend) |
 | **Headless CAD-to-USD Pipeline** | (Для компании [Tryverse](https://tryverse.io/)) Полностью автоматизированный серверный пайплайн, преобразующий тяжелые CAD-сборки (.STP) в оптимизированные 3D-модели (.USD). | `Python`, `FreeCAD`, `Blender`, `Docker` | [GitHub](https://github.com/MadiZhakenov/cad-to-usd-pipeline) |
 | **Online Wristwatch Store** | Полнофункциональный e-commerce магазин с каталогом, корзиной, оформлением заказов и панелью администратора. | `Node.js`, `Express.js`, `MongoDB`, `JWT` | [GitHub](https://github.com/MadiZhakenov/online-wristwatch-store) |
-
+| **2048 Game** | Классическая игра-головоломка 2048 с десктопной (Python/Tkinter) и современной веб-версией. Включает систему рекордов, таймер, звуковые эффекты и адаптивный дизайн. | `Python`, `Tkinter`, `Flask`, `HTML/CSS/JavaScript`, `SQLite` | [GitHub](https://github.com/MadiZhakenov/2048Game) |
 
 ---
 
