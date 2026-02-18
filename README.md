@@ -29,6 +29,21 @@ _"Я не просто пишу код - я решаю задачи бизнес
 <br><br>
 Хватит обсуждать дорожные карты. Давайте запустим ваш продукт на следующей неделе - проверим идею на деле.
 
+<div align="center">
+
+### 📫 Как связаться
+
+Всегда открыт к обсуждению новых проектов и интересных идей.
+
+<p>
+  <a href="https://t.me/MadishkaShishka"><img src="https://img.shields.io/badge/Telegram-2CA5E0?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+<a href="https://docs.google.com/document/d/1chu716GI-NsZyMfckx6H8OXzyr3X_K1PWMb5mZ6Wp9I/edit?tab=t.0">
+<img src="https://img.shields.io/badge/-%D0%9E%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%20-brightgreen?style=for-the-badge&logo=github" alt="Open to Freelance"/>
+</a>
+
+</div>
+
 ---
 
 ### 📂 Коммерческие проекты на 2025-2026
@@ -46,18 +61,3 @@ _"Я не просто пишу код - я решаю задачи бизнес
 | **2048 Game** | Классическая игра-головоломка 2048 с десктопной (Python/Tkinter) и современной веб-версией. Включает систему рекордов, таймер, звуковые эффекты и адаптивный дизайн. | [GitHub](https://github.com/MadiZhakenov/2048Game) |
 
 ---
-
-<div align="center">
-
-### 📫 Как связаться
-
-Всегда открыт к обсуждению новых проектов и интересных идей.
-
-<p>
-  <a href="https://t.me/MadishkaShishka"><img src="https://img.shields.io/badge/Telegram-2CA5E0?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
-<a href="https://docs.google.com/document/d/1chu716GI-NsZyMfckx6H8OXzyr3X_K1PWMb5mZ6Wp9I/edit?tab=t.0">
-<img src="https://img.shields.io/badge/-%D0%9E%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%20-brightgreen?style=for-the-badge&logo=github" alt="Open to Freelance"/>
-</a>
-
-</div>
