@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<h3>Full-Stack Developer | AI Engineer | CTO MentiAI | Software Engineering Student</h3>
+<h3>Full-Stack Developer | AI Engineer | CTO MentiAI | Software Engineering Student (AITU)</h3>
 </div>
 
 ---
