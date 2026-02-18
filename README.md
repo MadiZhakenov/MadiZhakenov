@@ -1,8 +1,8 @@
 <div id="header" align="center">
 <h1>
-Привет! Я Мәди Жакенов 👋
+Привет! Я Мәди Жакенов
 </h1>
-<h3>Full-Stack & AI Developer из Астаны 🇰🇿</h3>
+<h3>Full-Stack Developer | AI Engineer | CTO MentiAI | Software Engineering Student</h3>
 <a href="https://docs.google.com/document/d/1chu716GI-NsZyMfckx6H8OXzyr3X_K1PWMb5mZ6Wp9I/edit?tab=t.0">
 <img src="https://img.shields.io/badge/-Open%20to%20Freelance%20&%20Outsource-brightgreen?style=for-the-badge&logo=github" alt="Open to Freelance"/>
 </a>
