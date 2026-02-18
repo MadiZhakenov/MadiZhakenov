@@ -31,7 +31,7 @@ _"Я не просто пишу код - я решаю задачи бизнес
 
 <div align="center">
 
-### 📫 Как связаться <p><a href="https://t.me/MadishkaShishka"><img src="https://img.shields.io/badge/Telegram-2CA5E0?&style=for-the-badge&logo=telegram&logoColor=white" /></a></p>
+### 📫 Как связаться <a href="https://t.me/MadishkaShishka"><img src="https://img.shields.io/badge/Telegram-2CA5E0?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://docs.google.com/document/d/1chu716GI-NsZyMfckx6H8OXzyr3X_K1PWMb5mZ6Wp9I/edit?tab=t.0">
 <img src="https://img.shields.io/badge/-%D0%9E%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%20-brightgreen?style=for-the-badge&logo=github" alt="Open to Freelance"/>
 </a>
