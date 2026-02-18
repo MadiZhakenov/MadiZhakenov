@@ -1,7 +1,4 @@
 <div id="header" align="center">
-<h1>
-Мәди Жакенов
-</h1>
 <h3>Full-Stack Developer | AI Engineer | CTO MentiAI | Software Engineering Student</h3>
 </div>
 
