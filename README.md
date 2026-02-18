@@ -20,19 +20,6 @@
 
 ---
 
-### 🛠️ Технический стек
-
-| Категория | Технологии |
-|---|---|
-| 🖥️ **Frontend** | **Next.js**, **Flutter**, TypeScript, Tailwind CSS, HTML/CSS |
-| ⚙️ **Backend** | **Node.js**, **NestJS**, Express.js, REST API, GraphQL, Redis, BullMQ |
-| 🧠 **AI / RAG** | **LangChain**, OpenAI GPT, **Google Gemini**, RAG-пайплайны, Hybrid Search, HNSWLib |
-| 🗃️ **Базы данных** | **PostgreSQL**, **MongoDB** (Atlas), TypeORM, Mongoose |
-| 🛠️ **DevOps & CI/CD** | **Docker**, Docker Compose, Render, JWT |
-| 👨💻 **Языки** | **TypeScript**, **Python**, JavaScript, Dart, Java/Kotlin, C++ |
-
----
-
 ### 📂 Коммерческие проекты на 2025-2026
 
 | Проект | Описание | Стек | Ссылки |
