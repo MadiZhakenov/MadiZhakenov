@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<h3>Full-Stack Developer | AI Engineer | CTO MentiAI | Software Engineering Student (AITU)</h3>
+<h3>Full-Stack Developer | AI Engineer | CTO MentiAI/BookRental/ChikChirik/AI Qurylis | Software Engineering Student (AITU)</h3>
 </div>
 
 ---
@@ -49,7 +49,7 @@ _"Я не просто пишу код - я решаю задачи бизнес
 | Проект | Описание | Ссылки |
 |---|---|---|
 | **ToneMatch AI** | VST3-плагин на базе ИИ для автоматического клонирования гитарного звука с аудио-референса. Система использует нейросетевое моделирование (NAM) и многокритериальную оптимизацию для подбора идеального пресета из библиотеки в 260+ моделей. | [GitHub](https://github.com/MadiZhakenov/tonematchai) |
-| **Quantrans Global** | Гибридное веб-приложение для международной логистической компании. Сочетает публичный сайт (SSG для SEO и скорости) с защищенным клиентским self-service порталом для управления заказами, отслеживания статусов и документооборота. Включает админ-панель. | [YouTube](https://youtu.be/2EjVVNnth-g?si=v4gcTC7dAr4ul2xV)|
+| **Quantrans Global** | Гибридное веб-приложение для международной логистической компании. Сочетает публичный сайт (SSG для SEO и скорости) с защищенным клиентским self-service порталом для управления заказами, отслеживания статусов и документооборота. Включает админ-панель. | [YouTube](https://youtu.be/2EjVVNnth-g?si=v4gcTC7dAr4ul2xV) <br/> [Quantrans](https://qtg-log.com/)|
 | **NeoDom (OSI SaaS Platform)** | Full-stack SaaS-платформа в сфере ЖКХ (ОСИ) с AI-ассистентом и RAG-пайплайном для стабильного семантического поиска и генерации ответов. | [GitHub](https://github.com/MadiZhakenov/neo-dom) |
 | **Source Snapshot** | GUI-утилита для упаковки исходного кода проекта в единый PDF-отчет. Идеально для код-ревью, архивации или демонстрации. | [GitHub](https://github.com/MadiZhakenov/source-snapshot) |
 | **AI Art Analyzer Bot** | Telegram-бот, анализирующий эмоциональное содержание изображений с помощью Google Gemini API. | [GitHub](https://github.com/MadiZhakenov/ai-art-analyzer) <br/> [YouTube](https://youtube.com/shorts/U31Z49a0u_w?si=RmWG-MHy4j2NxfF) |
